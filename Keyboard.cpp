@@ -9,6 +9,9 @@ Keyboard::~Keyboard()
 {
 }
 
+// This comment is for testing purposes
+// thank you for reading
+
 Keyboard* Keyboard::getKeyboard()
 {
    static Keyboard keyboard;  //initialized when method is called the first time
